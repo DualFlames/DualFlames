@@ -16,4 +16,7 @@ Read below to find out a little bit about me
 -   1. Discord - @xLegacy#7114
 -   2. Email - logan.forbess@icloud.com
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 

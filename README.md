@@ -14,7 +14,7 @@ Read below to find out a little bit about me
    1. Getting a macOS device for XCode
 - 📫 How to reach me: 
    1. Discord - @xLegacy#7114
-   2. Email - logan.forbess@icloud.
+   2. Email - dcrp.legacy@gmail.com
    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DualFlames&include_all_commits=true&theme=radical&show_icons=true&count_private=true?include_all_commits=true)
 

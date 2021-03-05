@@ -16,7 +16,7 @@ Read below to find out a little bit about me
    1. Discord - @xLegacy#7114
    2. Email - logan.forbess@icloud.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DualFlames)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DualFlames)](https://github.com/anuraghazra/github-readme-stats)
 

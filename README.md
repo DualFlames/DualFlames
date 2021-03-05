@@ -14,8 +14,8 @@ Read below to find out a little bit about me
    1. Getting a macOS device for XCode
 - 📫 How to reach me: 
    1. Discord - @xLegacy#7114
-   2. Email - logan.forbess@icloud.com
+   2. Email - logan.forbess@icloud.
+   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DualFlames&show_icons=true)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DualFlames)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DualFlames)](https://github.com/anuraghazra/github-readme-stats)

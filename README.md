@@ -18,4 +18,4 @@ Read below to find out a little bit about me
    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DualFlames&include_all_commits=true&theme=radical&show_icons=true)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DualFlames&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

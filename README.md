@@ -16,6 +16,6 @@ Read below to find out a little bit about me
    1. Discord - @xLegacy#7114
    2. Email - logan.forbess@icloud.
    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DualFlames&theme=radical&show_icons=true&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DualFlames&include_all_commits=true&theme=radical&show_icons=true)
 
 
